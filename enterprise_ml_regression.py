@@ -169,8 +169,8 @@ def analyze_enterprise_regression(
     # 13. Test: Check the Results
     # -----------------------------------------------------
 
-    results, r2, model = analyze_enterprise_regression(
-    csv_path="sample_appointments.csv",
-    target_column="Appointments",
-    output_excel="regression_results_two.xlsx"
-    )
+    #results, r2, model = analyze_enterprise_regression(
+    #csv_path="sample_appointments.csv",
+    #target_column="Appointments",
+    #output_excel="regression_results.xlsx"
+    #)
